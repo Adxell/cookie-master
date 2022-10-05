@@ -1,7 +1,7 @@
 # cookie-master
 
-Project to learn about cookie
-=======
+# Project to learn about cookie
+
 ## Getting Started
 
 adxell, run the development server:
